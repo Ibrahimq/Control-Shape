@@ -1,5 +1,4 @@
 #include <GLFW/glfw3.h>
-#include <math.h>
 #define SCREEN_WIDTH 600
 #define SCREEN_HEIGHT 500
 
